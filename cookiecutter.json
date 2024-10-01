@@ -1,0 +1,4 @@
+{
+    "microservice": "products-example-service",
+    "job_jenkins_microservice_folder": "ProductsTeam"
+}
